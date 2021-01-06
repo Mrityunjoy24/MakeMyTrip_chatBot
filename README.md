@@ -1,6 +1,6 @@
 # MakeMyTrip_Demo_Bot
 
-Bot called MakeMyTrip that helps the user plan their trip by booking flights, booking rooms in a hotel in the destination city, book cars.
+ChatBot called MakeMyTrip that helps the user plan their trip by booking flights, booking rooms in a hotel in the destination city, book cars.
  
 Before making a booking, it asks for the user's email, phone number.
  
